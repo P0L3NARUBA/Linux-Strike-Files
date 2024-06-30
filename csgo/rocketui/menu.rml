@@ -1,6 +1,6 @@
 <rml>
 	<head>
-		<title>Kisak-Strike</title>
+		<title>Linux-Strike</title>
 		<link type="text/template" href="templates/window.rml"/>
 		<style>
 		@spritesheet demo-sheet
