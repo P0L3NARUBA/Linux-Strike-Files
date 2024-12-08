@@ -6,5 +6,5 @@
 **csgo** Folder belongs to `../game/`.
 
 > [!IMPORTANT]  
-> If you used `-DUSE_ROCKETUI=1` Parameter, you should need these files.
+> If you used `-DUSE_ROCKETUI=1` parameter, you should need these files.
  
