@@ -136,12 +136,6 @@
         enum-value-2="8"  enum-name-2="MSAA 8x"
         />
         <br/>
-        <KisakConvarSettingSlider
-        convar="mat_monitorgamma"
-        desc="Monitor Gamma"
-        slider-min="1.6" slider-max="2.2" slider-step="0.05"
-        />
-        <br/>
         <br/>
         <br/>
         <br/>
