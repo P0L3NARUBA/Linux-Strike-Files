@@ -16,7 +16,7 @@ csgo_linux
 srcds_linux
 
 
-/csgo/*
+!/csgo/*
 #Dont ignore rocketui folder
 !/csgo/rocketui
 !/csgo/rocketui/*
